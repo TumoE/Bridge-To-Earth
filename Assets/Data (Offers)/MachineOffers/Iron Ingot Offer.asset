@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1afdf425f5cd0e94da6acd1ecb01d563, type: 3}
+  m_Name: Iron Ingot Offer
+  m_EditorClassIdentifier: 
+  requirements:
+  - resource: {fileID: 11400000, guid: 4f1e296e24f9aaa47b6a33ee8d0499c6, type: 2}
+    value: 1
+    maxCount: 1
+  - resource: {fileID: 11400000, guid: cd15180270c8e804bb75ba696142d14e, type: 2}
+    value: 2
+    maxCount: 2
+  - resource: {fileID: 11400000, guid: a53936b3bbbecb2418d7b799694485bd, type: 2}
+    value: 2
+    maxCount: 2
+  isReady: 0
+  backup:
+  - resource: {fileID: 11400000, guid: 4f1e296e24f9aaa47b6a33ee8d0499c6, type: 2}
+    value: 1
+    maxCount: 1
+  - resource: {fileID: 11400000, guid: cd15180270c8e804bb75ba696142d14e, type: 2}
+    value: 2
+    maxCount: 2
+  - resource: {fileID: 11400000, guid: a53936b3bbbecb2418d7b799694485bd, type: 2}
+    value: 2
+    maxCount: 2
